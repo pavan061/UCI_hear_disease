@@ -1,1 +1,1 @@
-# UCI_hear_disease
+# UCI_heart_disease
